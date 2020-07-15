@@ -1,0 +1,15 @@
+{
+  "name": "electron-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": ["Electron"],
+  "author": "AdCharity",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.1.0"
+  }
+}
